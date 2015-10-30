@@ -1,0 +1,25 @@
+Host bitbucket
+  HostName bitbucket.org
+  IdentityFile ~/.ssh/id_rsa
+
+Host gitserver
+  HostName gitserver.wired.unimaas.local
+  IdentityFile ~/.ssh/id_rsa
+
+Host mate39
+  HostName mate39.wfw.wtb.tue.nl
+  User wouter
+  IdentityFile ~/.ssh/id_rsa
+
+Host noise
+  HostName noise.wfw.wtb.tue.nl
+  IdentityFile ~/.ssh/id_rsa
+
+Host rng
+  HostName rng.wfw.wtb.tue.nl
+  IdentityFile ~/.ssh/id_rsa
+
+Host github
+  HostName github.com
+  IdentityFile ~/.ssh/id_rsa
+  User git
