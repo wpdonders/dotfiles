@@ -1,0 +1,10 @@
+[user]
+	name = Wouter Donders
+[core]
+	autocrlf = true
+	excludesfile = $USERHOME/.gitignore_global.txt
+	editor = gvim
+[push]
+	default = matching
+[diff]
+        tool = vimdiff
