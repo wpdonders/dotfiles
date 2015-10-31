@@ -22,4 +22,3 @@ Host rng
 Host github
   HostName github.com
   IdentityFile ~/.ssh/id_rsa
-  User git
