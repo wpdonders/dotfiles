@@ -116,7 +116,7 @@ set copyindent
 set preserveindent
 
 " Change current directory to buffer's directory;
-set autoread
+set autochdir
 
 " Break at word, not at charachter
 set linebreak
